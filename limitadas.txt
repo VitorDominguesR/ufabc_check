@@ -4,7 +4,7 @@ ESZI003-17;Processamento de Informação em Línguas Naturais
 ESZI028-17;TV Digital
 ESZI029-17;Redes WAN de Banda Larga
 ESZI030-17;Gerenciamento e Interoperabilidade de Redes
-ESZI031-17;Segurança de Redes
+ESZI031-17;Segurança de Dados
 ESZI032-17;Processamento de Vídeo
 ESZI010-17;Simulação de Sistemas de Comunicação
 ESZI033-17;Programação de Dispositivos Móveis
@@ -35,7 +35,7 @@ MCTA026-13;Sistemas Operacionais
 MCTA025-13;Sistemas Distribuídos
 MCZA032-14;Introdução à Programação de Jogos
 MCZB018-13;Introdução à Modelagem e Processos Estocásticos
-MCZA025-13;Segurança em Redes
+MCZA025-13;Segurança de Redes
 ESZA017-17;Lógica Programável
 MCTB010-13;Cálculo Vetorial e Tensorial
 ESTO007-17;Mecânica dos Fluidos I

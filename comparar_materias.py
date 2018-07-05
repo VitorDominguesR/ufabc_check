@@ -27,9 +27,12 @@ for child in root.findall('Disciplina'):
     if (cod_discp_feita in obrigatorias.keys() or nome_discp_feita in obrigatorias.values()) and child.find('situacao').text != "Reprovado":
         #print(child.find('disciplina').text)
         discp_feitas[cod_discp_feita] = nome_discp_feita
-    if (cod_discp_feita in limitadas_dict.keys() or nome_discp_feita in limitadas_dict.values()) and child.find('situacao').text != "Reprovado":
+    elif (cod_discp_feita in limitadas_dict.keys() or nome_discp_feita in limitadas_dict.values()) and child.find('situacao').text != "Reprovado":
         #print(child.find('disciplina').text)
         discp_feitas[cod_discp_feita] = nome_discp_feita
+    elif child.find('situacao').text != "Reprovado":
+        print("Nao consta: %s"%nome_discp_feita)
+
 
 discp_feitas_count = 0
 print("Discp Feitas")
