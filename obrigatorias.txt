@@ -1,0 +1,37 @@
+MCTB009-17;Cálculo Numérico
+ESTO013-17;Engenharia Econômica
+ESTO011-17;Fundamentos de Desenho e Projeto
+ESTO005-17;Introdução às Engenharias
+ESTO006-17;Materiais e Suas Propriedades
+ESTO008-17;Mecânica dos Sólidos I
+ESTO012-17;Princípios de Administração
+ESTO016-17;Fenômenos de Transporte
+ESTO017-17;Métodos Experimentais em Engenharia
+ESTO902-17;Engenharia Unificada I
+ESTO903-17;Engenharia Unificada II
+MCTA028-15;Programação Estruturada
+ESTI016-17;Fundamentos de Fotônica
+ESTA002-17;Circuitos Elétricos I
+ESTI017-17;Fundamentos de Eletromagnetismo Aplicado
+ESTA004-17;Circuitos Elétricos II
+ESTA001-17;Dispositivos Eletrônicos
+ESTA007-17;Eletrônica Analógica Aplicada
+ESTI002-17;Eletrônica Digital
+ESTI003-17;Transformadas em Sinais e Sistemas Lineares
+ESTI004-17;Princípios de Comunicação
+ESTA003-17;Sistemas de Controle I
+MCTA022-13;Redes de Computadores
+ESTI005-17;Sinais Aleatórios
+ESTI006-17;Processamento Digital de Sinais
+ESTI007-17;Comunicação Digital
+ESTI008-17;Teoria da Informação e Códigos
+ESTI018-17;Ondas Eletromagnéticas Aplicadas
+ESTI010-17;Comunicações Ópticas
+ESTI019-17;Codificação de Sinais Multimídia
+ESTI013-17;Sistemas Microprocessados
+ESTI015-17;Comunicações Móveis
+ESTI020-17;Teoria de Filas e Análise de Desempenho
+ESTI905-17;Estágio Curricular em Engenharia de Informação
+ESTI902-17;Trabalho de Graduação I em Engenharia de Informação
+ESTI903-17;Trabalho de Graduação II em Engenharia de Informação
+ESTI904-17;Trabalho de Graduação III em Engenharia

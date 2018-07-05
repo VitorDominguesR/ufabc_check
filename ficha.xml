@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Disciplinas type="array">
+  <Disciplina>
+    <codigo>BCS0001-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Base Experimental das Ciências Naturais</disciplina>
+    <ano type="integer">2012</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BIK0102-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Estrutura da Matéria</disciplina>
+    <ano type="integer">2012</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BIL0304-13</codigo>
+    <conceito>A</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Origem da Vida e Diversidade dos Seres Vivos</disciplina>
+    <ano type="integer">2012</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BIM0005-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">2</creditos>
+    <disciplina>Bases Computacionais da Ciência</disciplina>
+    <ano type="integer">2012</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BIN0003-13</codigo>
+    <conceito>F</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Bases Matemáticas</disciplina>
+    <ano type="integer">2012</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Reprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCJ0208-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">5</creditos>
+    <disciplina>Fenômenos Mecânicos</disciplina>
+    <ano type="integer">2012</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCL0306-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Transformações nos Seres Vivos e Ambiente</disciplina>
+    <ano type="integer">2012</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCM0504-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Natureza da Informação</disciplina>
+    <ano type="integer">2012</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCN0402-13</codigo>
+    <conceito>F</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Funções de Uma Variável</disciplina>
+    <ano type="integer">2012</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Reprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCN0404-13</codigo>
+    <conceito>A</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Geometria Analítica</disciplina>
+    <ano type="integer">2012</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCJ0205-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Fenômenos Térmicos</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCL0307-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">5</creditos>
+    <disciplina>Transformações Químicas</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCM0505-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">5</creditos>
+    <disciplina>Processamento da Informação</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCN0405-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Introdução às Equações Diferenciais Ordinárias</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BIR0004-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Bases Epistemológicas da Ciência Moderna</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCJ0209-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">5</creditos>
+    <disciplina>Fenômenos Eletromagnéticos</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCL0308-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">5</creditos>
+    <disciplina>Transformações Bioquímicas</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCM0506-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Comunicação e Redes</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCN0407-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Funções de Várias Variáveis</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BIQ0602-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Estrutura e Dinâmica Social</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCK0103-13</codigo>
+    <conceito>D</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Física Quântica</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCN0402-13</codigo>
+    <conceito>D</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Funções de Uma Variável</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BIJ0207-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">2</creditos>
+    <disciplina>Energia: Origens, Conversão e Uso</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BIN0406-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Introdução à Probabilidade e à Estatística</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO005-13</codigo>
+    <conceito>A</conceito>
+    <creditos type="integer">2</creditos>
+    <disciplina>Introdução às Engenharias</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>MCTB001-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">6</creditos>
+    <disciplina>Álgebra Linear</disciplina>
+    <ano type="integer">2013</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BCK0104-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Interações Atômicas e Moleculares</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BIR0603-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Ciência, Tecnologia e Sociedade</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BIS0002-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">2</creditos>
+    <disciplina>Projeto Dirigido</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>MCTA022-13</codigo>
+    <conceito>A</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Redes de Computadores</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>MCZA024-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Redes sem Fio</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Livre Escolha</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESHT017-13</codigo>
+    <conceito>A</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Planejamento e Política Ambiental</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Livre Escolha</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTI014-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Telefonia Fixa Moderna</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>MCTA004-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Arquitetura de Computadores</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Opção Limitada</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>MCTX033-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Cálculo Numérico</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>BIN0003-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Bases Matemáticas</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTI003-13</codigo>
+    <conceito>D</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Transformadas em Sinais e Sistemas Lineares</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESZI005-13</codigo>
+    <conceito>D</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Redes de Alta Velocidade</disciplina>
+    <ano type="integer">2014</ano>
+    <categoria>Opção Limitada</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTI005-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Sinais Aleatórios</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO001-13</codigo>
+    <conceito>D</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Circuitos Elétricos e Fotônica</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO006-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Materiais e Suas Propriedades</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESZI012-13</codigo>
+    <conceito>A</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Jogos Digitais: Aspectos Técnicos e Aplicações</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Opção Limitada</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTI004-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Princípios de Comunicação</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTI006-13</codigo>
+    <conceito>A</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Processamento Digital de Sinais</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>MCTA023-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Segurança de Dados</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Livre Escolha</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>NHT3015-13</codigo>
+    <conceito>F</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Funções Complexas e Transformadas Integrais</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Livre Escolha</categoria>
+    <situacao>Reprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTA002-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">5</creditos>
+    <disciplina>Circuitos Elétricos I</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTI009-13</codigo>
+    <conceito>D</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Ondas Eletromagnéticas Aplicadas</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESZI008-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Segurança de Redes</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Opção Limitada</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>MCTA025-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Sistemas Distribuídos</disciplina>
+    <ano type="integer">2015</ano>
+    <categoria>Opção Limitada</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTA001-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">5</creditos>
+    <disciplina>Dispositivos Eletrônicos</disciplina>
+    <ano type="integer">2016</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTI011-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Propagação e Antenas</disciplina>
+    <ano type="integer">2016</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO009-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Métodos Experimentais em Engenharia</disciplina>
+    <ano type="integer">2016</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>MCTA033-15</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Engenharia de Software</disciplina>
+    <ano type="integer">2016</ano>
+    <categoria>Opção Limitada</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ATC-BCT</codigo>
+    <conceito>-</conceito>
+    <creditos type="integer">0</creditos>
+    <disciplina>Atividades Complementares</disciplina>
+    <ano type="integer">2016</ano>
+    <categoria>-</categoria>
+    <situacao>Apr.S.Nota</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTA007-13</codigo>
+    <conceito>F</conceito>
+    <creditos type="integer">5</creditos>
+    <disciplina>Eletrônica Analógica Aplicada</disciplina>
+    <ano type="integer">2016</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Reprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO900-13</codigo>
+    <conceito>A</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Engenharia Unificada I</disciplina>
+    <ano type="integer">2016</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>MCTA018-13</codigo>
+    <conceito>A</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Programação Orientada a Objetos</disciplina>
+    <ano type="integer">2016</ano>
+    <categoria>Opção Limitada</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO004-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Instrumentação e Controle</disciplina>
+    <ano type="integer">2016</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>MCTA005-13</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Banco de Dados</disciplina>
+    <ano type="integer">2016</ano>
+    <categoria>Opção Limitada</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO003-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Fundamentos de Desenho e Projeto</disciplina>
+    <ano type="integer">2017</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO901-13</codigo>
+    <conceito>A</conceito>
+    <creditos type="integer">3</creditos>
+    <disciplina>Engenharia Unificada II</disciplina>
+    <ano type="integer">2017</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESZI019-13</codigo>
+    <conceito>O</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Sistemas de Micro-ondas</disciplina>
+    <ano type="integer">2017</ano>
+    <categoria>Opção Limitada</categoria>
+    <situacao>Repr.Freq</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTA007-17</codigo>
+    <conceito>F</conceito>
+    <creditos type="integer">5</creditos>
+    <disciplina>Eletrônica Analógica Aplicada</disciplina>
+    <ano type="integer">2017</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Reprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESZI041-17</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Programação de Software Embarcado</disciplina>
+    <ano type="integer">2017</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>2</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO008-17</codigo>
+    <conceito>O</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Mecânica dos Sólidos I</disciplina>
+    <ano type="integer">2017</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Repr.Freq</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO013-17</codigo>
+    <conceito>F</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Engenharia Econômica</disciplina>
+    <ano type="integer">2017</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Reprovado</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO015-17</codigo>
+    <conceito>O</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Mecânica dos Fluidos I</disciplina>
+    <ano type="integer">2017</ano>
+    <categoria>Obrigatória</categoria>
+    <situacao>Repr.Freq</situacao>
+    <periodo>3</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>ESTO016-17</codigo>
+    <conceito>C</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Fenômenos de Transporte</disciplina>
+    <ano type="integer">2018</ano>
+    <categoria>Livre Escolha</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+  <Disciplina>
+    <codigo>MCTA026-13</codigo>
+    <conceito>B</conceito>
+    <creditos type="integer">4</creditos>
+    <disciplina>Sistemas Operacionais</disciplina>
+    <ano type="integer">2018</ano>
+    <categoria>Opção Limitada</categoria>
+    <situacao>Aprovado</situacao>
+    <periodo>1</periodo>
+  </Disciplina>
+</Disciplinas>
