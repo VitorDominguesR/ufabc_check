@@ -10,7 +10,6 @@ ESTO017-17;Métodos Experimentais em Engenharia
 ESTO902-17;Engenharia Unificada I
 ESTO903-17;Engenharia Unificada II
 MCTA028-15;Programação Estruturada
-ESTI016-17;Fundamentos de Fotônica
 ESTA002-17;Circuitos Elétricos I
 ESTI017-17;Fundamentos de Eletromagnetismo Aplicado
 ESTA004-17;Circuitos Elétricos II
@@ -19,7 +18,6 @@ ESTA007-17;Eletrônica Analógica Aplicada
 ESTI002-17;Eletrônica Digital
 ESTI003-17;Transformadas em Sinais e Sistemas Lineares
 ESTI004-17;Princípios de Comunicação
-ESTA003-17;Sistemas de Controle I
 MCTA022-13;Redes de Computadores
 ESTI005-17;Sinais Aleatórios
 ESTI006-17;Processamento Digital de Sinais
