@@ -1,487 +1,584 @@
+BCJ0204
+-
+15
+Fenômenos Mecânicos
+4
 1
-ESZI027
--
-17
-Informação e Sociedade
-2
-0
-3
-2
+6
+5
 02
-ESZI002
+BCJ0205
 -
-17
-Filtragem Adaptativa
+15
+Fenômenos Térmicos
 3
 1
 4
 4
 03
-ESZI003
+BCJ0203
 -
-17
-Processamento de Informação em Línguas Naturais
-3
+15
+Fenômenos Eletromagnéticos
+4
 1
-4
-4
+6
+5
 04
-ESZI028
+BIJ0207
 -
-17
-TV Digital
-3
-1
+15
+Bases Conceituais da Energia
+2
+0
 4
-4
+2
 05
-ESZI029
+BIL0304
 -
-17
-Redes WAN de Banda Larga
+15
+Evolução e Diversificação da Vida na Terra
 3
-1
+0
 4
-4
+3
 06
-ESZI030
+BCL0307
 -
-17
-Gerenciamento e Interoperabilidade de Redes
+15
+Transformações Químicas
 3
-1
-4
-4
+2
+6
+5
 07
-ESZI031
+BCL0306
 -
-17
-Segurança de Redes
+15
+Biodiversidade: Interações entre Organismos e Ambiente
 3
-1
+0
 4
-4
-8
-ESZI032
+3
+08
+BCN0404
 -
-17
-Processamento de Vídeo
+15
+Geometria Analítica
 3
-1
-4
-4
+0
+6
+3
 09
-ESZI010
+BCN0402
 -
-17
-Simulação de Sistemas de Comunicação
-2
-2
+15
+Funções de Uma Variável
 4
+0
+6
 4
 10
-ESZI033
+BCN0407
 -
-17
-Programação de Dispositivos Móveis
-0
-2
+15
+Funções de Várias Variáveis
 4
-2
+0
+4
+4
 11
-ESZI034
+BCN0405
 -
-17
-Jogos Digitais: Aspectos Técnicos e Aplicações
-1
-3
+15
+Introdução às Equações
+Diferenciais Ordinárias
+4
+0
 4
 4
 12
-ESZI013
+BIN0406
 -
-17
-Informática
-Industrial
-0
-4
-4
-4
-13
-ESZI014
--
-17
-Sistemas Inteligentes
-3
-1
-4
-4
-14
-ESZI035
--
-17
-Introdução ao Processamento de Sinais de Voz e Áudio
-3
-1
-4
-4
 15
-ESZI016
+Introdução à Probabilidade e à Estatística
+3
+0
+4
+3
+13
+BCM0504
 -
-17
-Projeto de Filtros Digitais
-2
-2
+15
+Natureza da Informação
+3
+0
 4
+3
+14
+BCM0505
+-
+15
+Processamento da Informação
+3
+2
+5
+5
+15
+BCM0506
+-
+15
+Comunicação e Redes
+3
+0
 4
+3
 16
-ESZI017
+BIK0102
 -
-17
-Fundamentos de Processamento Gráfico
+15
+Estrutura da Matéria
 3
-1
-4
-4
-17
-ESZI018
--
-17
-Tecnologia de Redes Ópticas
-4
 0
 4
+3
+17
+BCK0103
+-
+15
+Física Quântica
+3
+0
 4
+3
 18
-ESZI019
+BCK0104
 -
-17
-Sistemas de Micro
--
-ondas
+15
+Interações Atômicas e Moleculares
 3
-1
-4
-4
-19
-ESZI036
--
-17
-Projeto de Alta Frequência
-2
-2
-4
-4
-20
-ESZI037
--
-17
-Aplicações em Voz, Áudio e Acústica
-3
-1
-4
-4
-21
-ESZI022
--
-17
-Planejamento de Redes de Informação
-2
-2
-4
-4
-22
-ESZI023
--
-17
-Projeto de Sistemas de Comunicação
 0
+4
 3
+19
+BCL0308
+-
+15
+Bioquímica: Estrutura, Propriedade e Funções de
+Biomoléculas
 3
+2
+6
+5
+20
+BIR0004
+-
+15
+Bases Epistemológicas da Ciência
+Moderna
+3
+0
+4
+3
+21
+BIQ0602
+-
+15
+Estrutura e Dinâmica Social
+3
+0
+4
+3
+22
+BIR0603
+-
+15
+Ciência, Tecnologia e Sociedade
+3
+0
+4
 3
 23
-ESZI038
+BCS0001
 -
-17
-Projeto de Sistemas Multimídia
+15
+Base Experimental das Ciências Naturais
 0
 3
-3
+2
 3
 24
-ESZI025
+BCS0002
 -
-17
-Aplicações de Microcontroladores
+15
+Projeto Dirigido
 0
-4
-4
-4
+2
+10
+2
 25
-ESZI039
+BIS0005
 -
-17
-Propagação e Antenas
-3
-1
-4
-4
+15
+Bases
+Computacionais da Ciência
+0
+2
+2
+2
 26
-ESZI040
+BIS0003
 -
-17
-Telefonia Fixa e VOIP
-3
-1
+15
+Bases Matemáticas
 4
+0
+5
 4
 27
-ESZI041
+MCTB001
 -
 17
-Programação de Software Embarcado
-2
-2
-4
-4
+Álgebra Linear
+6
+0
+5
+6
 28
-ESZI026
+MCTB009
 -
 17
-Engenharia de Sistemas de Comunicação e Missão Crítica
-2
-2
+Cálculo Numérico
+3
+1
 4
 4
 29
-ESZI042
+ESTO013
 -
 17
-Instrumentação em RF e Micro
--
-ondas
-2
-2
-4
-4
-30
-ESZI043
--
-17
-Programação Baseada em Componentes para
-Jogos
-2
-2
-4
-4
-31
-ESZI044
--
-17
-Fundamentos da Computação Semântica
-3
-1
-4
-4
-32
-ESZI045
--
-17
-Introdução à Linguística Computacional
-3
-1
-4
-4
-33
-MCTA018
--
-13
-Programação Orientada a Objetos
-2
-2
-4
-4
-34
-MCTA0
-33
--
-1
-5
-Engenharia de Software
+Engenharia Econômica
 4
 0
 4
 4
-35
-MCTA001
+30
+ESTO011
 -
+17
+Fundamentos de Desenho Técnico
+2
+0
+4
+2
+31
+ESTO005
+-
+17
+Introdução às Engenharias
+2
+0
+4
+2
+32
+ESTO006
+-
+17
+Materiais e Suas Propriedades
+3
 1
-7
-Algoritmos e Estruturas de Dados I
+5
+4
+33
+ESTO008
+-
+17
+Mecânica dos Sólidos I
+3
+1
+5
+4
+34
+ESTO012
+-
+17
+Princípios de Administração
 2
+0
+4
 2
+35
+ESTO016
+-
+17
+Fenômenos de Transporte
+4
+0
 4
 4
 36
-MCTA002
+ESTO017
 -
-1
-7
-Algoritmos e Estruturas de Dados II
+17
+Métodos Experimentais em Engenharia
 2
 2
 4
 4
 37
-MCTA0
-34
+ESTO902
 -
-1
-7
-Banco de Dados
-4
+17
+Engenharia Unificada I
 0
-4
-4
+2
+5
+2
 38
-MCTA004
+ESTO903
 -
-1
-7
-Arquitetura de Computadores
-4
+17
+Engenharia Unificada II
 0
-4
-4
+2
+5
+2
 39
-MCTA026
+MCTA028
 -
-13
-Sistemas Operacionais
+15
+Programação Estruturada
+2
+2
+4
+4
+40
+ESTI016
+-
+17
+Fundamentos de Fotônica
+2
+2
+4
+4
+41
+ESTA002
+-
+17
+Circuitos
+Elétricos I
 3
 2
 4
 5
-40
-MCTA025
--
-13
-Sistemas Distribuídos
-3
-1
-4
-4
-41
-MCZA032
--
-14
-Introdução à Programação de Jogos
-2
-2
-4
-4
 42
-MCZB018
+ESTI017
 -
-13
-Introdução à Modelagem e Processos Estocásticos
+17
+Fundamentos de Eletromagnetismo Aplicado
 3
 1
 4
 4
 43
-MCZA011
--
-1
-7
-Laboratório de Redes
-0
-4
-4
-4
-44
-MCZA023
--
-1
-7
-Redes Convergentes
-4
-0
-4
-4
-45
-MCZA021
--
-1
-7
-Projeto de Redes
-4
-0
-4
-4
-46
-MCZA025
--
-13
-Segurança em Redes
-2
-2
-4
-4
-47
-ESZA017
+ESTA004
 -
 17
-Lógica Programável
+Circuitos Elétricos II
 3
-1
+2
+4
+5
+44
+ESTA001
+-
+17
+Dispositivos Eletrônicos
+3
+2
+4
+5
+45
+ESTA007
+-
+17
+Eletrônica Analógica Aplicada
+3
+2
+4
+5
+46
+ESTI002
+-
+17
+Eletrônica Digital
+4
+2
+4
+6
+47
+ESTI003
+-
+17
+Transformadas em Sinais e Sistemas Lineares
+4
+0
 4
 4
 48
-MCTB010
+ESTI004
 -
-13
-Cálculo Vetorial e Tensorial
-4
-0
+17
+Princípios de Comunicação
+3
+1
 4
 4
 49
-ESTO007
+ESTA003
 -
 17
-Mecânica dos Fluidos I
+Sistemas de Controle I
+3
+2
+4
+5
+50
+MCTA022
+-
+13
+Redes de Computadores
 3
 1
-5
 4
-50
-ESTO014
--
-17
-Termodinâmica Aplicada
-I
-4
-0
-5
 4
 51
-ESTO004
+ESTI005
 -
 17
-Instrumentação e Controle
+Sinais
+Aleatórios
+4
+0
+4
+4
+52
+ESTI006
+-
+17
+Processamento Digital de Sinais
+4
+0
+4
+4
+53
+ESTI007
+-
+17
+Comunicação Digital
 3
 1
-5
 4
-5
+4
+54
+ESTI008
+-
+17
+Teoria da Informação e Códigos
+4
+0
+4
+4
+55
+ESTI018
+-
+17
+Ondas Eletromagnéticas Aplicadas
+3
+1
+4
+4
+56
+ESTI010
+-
+17
+Comunicações
+Ópticas
+3
+1
+4
+4
+57
+ESTI019
+-
+17
+Codificação de Sinais Multimídia
 2
-ESTO00
-1
+2
+4
+4
+58
+ESTI013
 -
 17
-Circuitos Elétricos e Fotônica
+Sistemas Microprocessados
+2
+2
+4
+4
+59
+ESTI015
+-
+17
+Comunicações Móveis
 3
 1
-5
 4
+4
+60
+ESTI020
+-
+17
+Teoria de Filas e Análise de Desempenho
+3
+1
+4
+4
+61
+ESTI905
+-
+17
+Estágio
+Curricular em Engenharia de Informação
+0
+14
+0
+14
+62
+ESTI902
+-
+17
+Trabalho de Graduação I em Engenharia de Informação
+0
+2
+4
+2
+63
+ESTI903
+-
+17
+Trabalho de Graduação II em Engenharia de Informação
+0
+2
+4
+2
+64
+ESTI904
+-
+17
+Trabalho de Graduação III em Engenharia
+de Informação
+0
+2
+4
+2

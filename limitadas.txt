@@ -1,43 +1,51 @@
-ESZI027-17;InformaÁ„o e Sociedade
+ESZI027-17;Informa√ß√£o e Sociedade
 ESZI002-17;Filtragem Adaptativa
-ESZI003-17;Processamento de InformaÁ„o em LÌnguas Naturais
+ESZI003-17;Processamento de Informa√ß√£o em L√≠nguas Naturais
 ESZI028-17;TV Digital
 ESZI029-17;Redes WAN de Banda Larga
 ESZI030-17;Gerenciamento e Interoperabilidade de Redes
-ESZI031-17;SeguranÁa de Dados
-ESZI032-17;Processamento de VÌdeo
-ESZI010-17;SimulaÁ„o de Sistemas de ComunicaÁ„o
-ESZI033-17;ProgramaÁ„o de Dispositivos MÛveis
-ESZI034-17;Jogos Digitais: Aspectos TÈcnicos e AplicaÁıes
-ESZI013-17;Inform·tica Industrial
+ESZI031-17;Seguran√ßa de Redes31448Processamento de V√≠deo
+ESZI010-17;Simula√ß√£o de Sistemas de Comunica√ß√£o
+ESZI033-17;Programa√ß√£o de Dispositivos M√≥veis
+ESZI034-17;Jogos Digitais: Aspectos T√©cnicos e Aplica√ß√µes
+ESZI013-17;Inform√°ticaIndustrial
 ESZI014-17;Sistemas Inteligentes
-ESZI035-17;IntroduÁ„o ao Processamento de Sinais de Voz e ¡udio
+ESZI035-17;Introdu√ß√£o ao Processamento de Sinais de Voz e √Åudio
 ESZI016-17;Projeto de Filtros Digitais
-ESZI017-17;Fundamentos de Processamento Gr·fico
-ESZI018-17;Tecnologia de Redes ”pticas
+ESZI017-17;Fundamentos de Processamento Gr√°fico
+ESZI018-17;Tecnologia de Redes √ìpticas
 ESZI019-17;Sistemas de Micro-ondas
-ESZI036-17;Projeto de Alta FrequÍncia
-ESZI037-17;AplicaÁıes em Voz, ¡udio e Ac˙stica
-ESZI022-17;Planejamento de Redes de InformaÁ„o
-ESZI023-17;Projeto de Sistemas de ComunicaÁ„o
-ESZI038-17;Projeto de Sistemas MultimÌdia
-ESZI025-17;AplicaÁıes de Microcontroladores
-ESZI039-17;PropagaÁ„o e Antenas
+ESZI036-17;Projeto de Alta Frequ√™ncia
+ESZI037-17;Aplica√ß√µes em Voz, √Åudio e Ac√∫stica
+ESZI022-17;Planejamento de Redes de Informa√ß√£o
+ESZI023-17;Projeto de Sistemas de Comunica√ß√£o
+ESZI038-17;Projeto de Sistemas Multim√≠dia
+ESZI025-17;Aplica√ß√µes de Microcontroladores
+ESZI039-17;Propaga√ß√£o e Antenas
 ESZI040-17;Telefonia Fixa e VOIP
-ESZI041-17;ProgramaÁ„o de Software Embarcado
-ESZI026-17;Engenharia de Sistemas de ComunicaÁ„o e Miss„o CrÌtica
-ESZI042-17;InstrumentaÁ„o em RF e Micro
-ESZI043-17;ProgramaÁ„o Baseada em Componentes para
-ESZI044-17;Fundamentos da ComputaÁ„o Sem‚ntica
-ESZI045-17;IntroduÁ„o ‡ LinguÌstica Computacional
-MCTA018-13;ProgramaÁ„o Orientada a Objetos
+ESZI041-17;Programa√ß√£o de Software Embarcado
+ESZI026-17;Engenharia de Sistemas de Comunica√ß√£o e Miss√£o Cr√≠tica
+ESZI042-17;Instrumenta√ß√£o em RF e Micro-ondas
+ESZI043-17;Programa√ß√£o Baseada em Componentes paraJogos
+ESZI044-17;Fundamentos da Computa√ß√£o Sem√¢ntica
+ESZI045-17;Introdu√ß√£o √† Lingu√≠stica Computacional
+MCTA018-13;Programa√ß√£o Orientada a Objetos
+MCTA033-15;Engenharia de Software
+MCTA001-17;Algoritmos e Estruturas de Dados I
+MCTA002-17;Algoritmos e Estruturas de Dados II
+MCTA034-17;Banco de Dados
+MCTA004-17;Arquitetura de Computadores
 MCTA026-13;Sistemas Operacionais
-MCTA025-13;Sistemas DistribuÌdos
-MCZA032-14;IntroduÁ„o ‡ ProgramaÁ„o de Jogos
-MCZB018-13;IntroduÁ„o ‡ Modelagem e Processos Estoc·sticos
-MCZA025-13;SeguranÁa de Redes
-ESZA017-17;LÛgica Program·vel
-MCTB010-13;C·lculo Vetorial e Tensorial
-ESTO007-17;Mec‚nica dos Fluidos I
-ESTO014-17;Termodin‚mica Aplicada
-ESTO004-17;InstrumentaÁ„o e Controle
+MCTA025-13;Sistemas Distribu√≠dos
+MCZA032-14;Introdu√ß√£o √† Programa√ß√£o de Jogos
+MCZB018-13;Introdu√ß√£o √† Modelagem e Processos Estoc√°sticos
+MCZA011-17;Laborat√≥rio de Redes
+MCZA023-17;Redes Convergentes
+MCZA021-17;Projeto de Redes
+MCZA025-13;Seguran√ßa em Redes
+ESZA017-17;L√≥gica Program√°vel
+MCTB010-13;C√°lculo Vetorial e Tensorial
+ESTO007-17;Mec√¢nica dos Fluidos I
+ESTO014-17;Termodin√¢mica AplicadaI
+ESTO004-17;Instrumenta√ß√£o e Controle
+ESTO001-17;Circuitos El√©tricos e Fot√¥nica3154
