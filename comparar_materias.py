@@ -1,8 +1,11 @@
 #coding: latin1
 
 import xml.etree.cElementTree as ET
+import csv
+import codecs
 
 tree = ET.parse('ficha.xml')
+
 
 root = tree.getroot()
 
@@ -51,13 +54,15 @@ for key, value in discp_feitas.items():
     discp_feitas_count +=1
 print("Total: %s" %discp_feitas_count)
 
-
+csv_file = codecs.open('obrigatorias_nao_feitas.csv', 'w', encoding='utf8')
 print("\nDisciplinas obrigatorias nao feitas")
 count=0
 for key, value in obrigatorias.items():
     if key not in discp_feitas.keys() and value not in discp_feitas.values():
         print("%s %s" % (key, value))
+        csv_file.write("%s;%s\n" % (key, value))
         count+=1
+csv_file.close()
 
 print("Total: %s" %count)
 
@@ -69,3 +74,4 @@ for key, value in limitadas_dict.items():
         count += 1
 
 print("Total: %s" %count)
+
