@@ -1,20 +1,20 @@
-ESZI027-17;Informação e Sociedade
 ESZI002-17;Filtragem Adaptativa
 ESZI003-17;Processamento de Informação em Línguas Naturais
 ESZI028-17;TV Digital
 ESZI029-17;Redes WAN de Banda Larga
 ESZI030-17;Gerenciamento e Interoperabilidade de Redes
-ESZI031-17;Segurança de Redes31448Processamento de Vídeo
+ESZI031-17;Segurança de Redes
+ESZI032-17;Processamento de Vídeo
 ESZI010-17;Simulação de Sistemas de Comunicação
 ESZI033-17;Programação de Dispositivos Móveis
 ESZI034-17;Jogos Digitais: Aspectos Técnicos e Aplicações
-ESZI013-17;InformáticaIndustrial
+ESZI013-17;Informática Industrial
 ESZI014-17;Sistemas Inteligentes
 ESZI035-17;Introdução ao Processamento de Sinais de Voz e Áudio
 ESZI016-17;Projeto de Filtros Digitais
 ESZI017-17;Fundamentos de Processamento Gráfico
 ESZI018-17;Tecnologia de Redes Ópticas
-ESZI019-17;Sistemas de Micro-ondas
+ESZI019-17;Sistemas de Micro - ondas
 ESZI036-17;Projeto de Alta Frequência
 ESZI037-17;Aplicações em Voz, Áudio e Acústica
 ESZI022-17;Planejamento de Redes de Informação
@@ -26,26 +26,18 @@ ESZI040-17;Telefonia Fixa e VOIP
 ESZI041-17;Programação de Software Embarcado
 ESZI026-17;Engenharia de Sistemas de Comunicação e Missão Crítica
 ESZI042-17;Instrumentação em RF e Micro-ondas
-ESZI043-17;Programação Baseada em Componentes paraJogos
+ESZI043-17;Programação Baseada em Componentes para Jogos
 ESZI044-17;Fundamentos da Computação Semântica
 ESZI045-17;Introdução à Linguística Computacional
 MCTA018-13;Programação Orientada a Objetos
-MCTA033-15;Engenharia de Software
-MCTA001-17;Algoritmos e Estruturas de Dados I
-MCTA002-17;Algoritmos e Estruturas de Dados II
-MCTA034-17;Banco de Dados
-MCTA004-17;Arquitetura de Computadores
 MCTA026-13;Sistemas Operacionais
 MCTA025-13;Sistemas Distribuídos
 MCZA032-14;Introdução à Programação de Jogos
 MCZB018-13;Introdução à Modelagem e Processos Estocásticos
-MCZA011-17;Laboratório de Redes
-MCZA023-17;Redes Convergentes
-MCZA021-17;Projeto de Redes
 MCZA025-13;Segurança em Redes
 ESZA017-17;Lógica Programável
 MCTB010-13;Cálculo Vetorial e Tensorial
 ESTO007-17;Mecânica dos Fluidos I
-ESTO014-17;Termodinâmica AplicadaI
+ESTO014-17;Termodinâmica Aplicada I
 ESTO004-17;Instrumentação e Controle
-ESTO001-17;Circuitos Elétricos e Fotônica3154
+ESTO001-17;Circuitos Elétricos e Fotônica

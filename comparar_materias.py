@@ -22,7 +22,11 @@ with open('limitadas.txt', 'r', ) as limitadas:
 materias_covalidadas = ["BCL0308-15", "BCL0306-15", "BIJ0207-15", "BIL0304-15", "ESTA003-17", "ESTI016-17", "ESTO011-17"]
 
 for materia in materias_covalidadas:
-    obrigatorias.pop(materia)
+    try:
+        obrigatorias.pop(materia)
+    except:
+        limitadas_dict.pop(materia)
+
 
 discp_feitas = {}
 
@@ -57,4 +61,11 @@ for key, value in obrigatorias.items():
 
 print("Total: %s" %count)
 
+print("\nDisciplinas limitadas nao feitas")
+count = 0
+for key, value in limitadas_dict.items():
+    if key not in discp_feitas.keys() and value not in discp_feitas.values():
+        print("%s %s" % (key, value))
+        count += 1
 
+print("Total: %s" %count)

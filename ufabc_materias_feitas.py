@@ -3,7 +3,7 @@
 
 import re
 
-obrigatorias_file = open("obrigatorias.txt", "w")
+obrigatorias_file = open("limitadas.txt", "w")
 
 with open("ufabc_materias_eng_info", "r") as materias_enginfo:
         string = materias_enginfo.read().replace("\r\n"," ")
