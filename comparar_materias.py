@@ -11,13 +11,18 @@ limitadas_dict = {}
 
 with open('obrigatorias.txt', 'r') as obrig_file:
     for line in obrig_file.readlines():
-        cod, mat = line.decode('latin1').split(';')
+        cod, mat = line.decode('utf8').split(';')
         obrigatorias[cod] = mat.strip()
 
 with open('limitadas.txt', 'r', ) as limitadas:
     for line in limitadas.readlines():
-        cod, mat = line.decode('latin1').split(';')
+        cod, mat = line.decode('utf8').split(';')
         limitadas_dict[cod] = mat.strip()
+
+materias_covalidadas = ["BCL0308-15", "BCL0306-15", "BIJ0207-15", "BIL0304-15", "ESTA003-17", "ESTI016-17", "ESTO011-17"]
+
+for materia in materias_covalidadas:
+    obrigatorias.pop(materia)
 
 discp_feitas = {}
 
@@ -35,6 +40,7 @@ for child in root.findall('Disciplina'):
 
 
 discp_feitas_count = 0
+
 print("Discp Feitas")
 for key, value in discp_feitas.items():
     print("%s %s"%(key, value))
